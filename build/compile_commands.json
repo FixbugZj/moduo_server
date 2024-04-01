@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/tony/project/chat/build/src/server",
+  "command": "/usr/bin/g++    -I/home/tony/project/chat/include -I/home/tony/project/chat/include/server -I/home/tony/project/chat/include/server/db -I/home/tony/project/chat/include/server/model -I/home/tony/project/chat/include/server/redis -I/home/tony/project/chat/thirdparty  -g -g   -std=c++11 -o CMakeFiles/server.dir/chatserver.cpp.o -c /home/tony/project/chat/src/server/chatserver.cpp",
+  "file": "/home/tony/project/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/tony/project/chat/build/src/server",
+  "command": "/usr/bin/g++    -I/home/tony/project/chat/include -I/home/tony/project/chat/include/server -I/home/tony/project/chat/include/server/db -I/home/tony/project/chat/include/server/model -I/home/tony/project/chat/include/server/redis -I/home/tony/project/chat/thirdparty  -g -g   -std=c++11 -o CMakeFiles/server.dir/chatservice.cpp.o -c /home/tony/project/chat/src/server/chatservice.cpp",
+  "file": "/home/tony/project/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/tony/project/chat/build/src/server",
+  "command": "/usr/bin/g++    -I/home/tony/project/chat/include -I/home/tony/project/chat/include/server -I/home/tony/project/chat/include/server/db -I/home/tony/project/chat/include/server/model -I/home/tony/project/chat/include/server/redis -I/home/tony/project/chat/thirdparty  -g -g   -std=c++11 -o CMakeFiles/server.dir/main.cpp.o -c /home/tony/project/chat/src/server/main.cpp",
+  "file": "/home/tony/project/chat/src/server/main.cpp"
+},
+{
+  "directory": "/home/tony/project/chat/build/src/server",
+  "command": "/usr/bin/g++    -I/home/tony/project/chat/include -I/home/tony/project/chat/include/server -I/home/tony/project/chat/include/server/db -I/home/tony/project/chat/include/server/model -I/home/tony/project/chat/include/server/redis -I/home/tony/project/chat/thirdparty  -g -g   -std=c++11 -o CMakeFiles/server.dir/db/db.cpp.o -c /home/tony/project/chat/src/server/db/db.cpp",
+  "file": "/home/tony/project/chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/tony/project/chat/build/src/server",
+  "command": "/usr/bin/g++    -I/home/tony/project/chat/include -I/home/tony/project/chat/include/server -I/home/tony/project/chat/include/server/db -I/home/tony/project/chat/include/server/model -I/home/tony/project/chat/include/server/redis -I/home/tony/project/chat/thirdparty  -g -g   -std=c++11 -o CMakeFiles/server.dir/model/friendmodel.cpp.o -c /home/tony/project/chat/src/server/model/friendmodel.cpp",
+  "file": "/home/tony/project/chat/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/tony/project/chat/build/src/server",
+  "command": "/usr/bin/g++    -I/home/tony/project/chat/include -I/home/tony/project/chat/include/server -I/home/tony/project/chat/include/server/db -I/home/tony/project/chat/include/server/model -I/home/tony/project/chat/include/server/redis -I/home/tony/project/chat/thirdparty  -g -g   -std=c++11 -o CMakeFiles/server.dir/model/groupmodel.cpp.o -c /home/tony/project/chat/src/server/model/groupmodel.cpp",
+  "file": "/home/tony/project/chat/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/tony/project/chat/build/src/server",
+  "command": "/usr/bin/g++    -I/home/tony/project/chat/include -I/home/tony/project/chat/include/server -I/home/tony/project/chat/include/server/db -I/home/tony/project/chat/include/server/model -I/home/tony/project/chat/include/server/redis -I/home/tony/project/chat/thirdparty  -g -g   -std=c++11 -o CMakeFiles/server.dir/model/offlinemessagemodel.cpp.o -c /home/tony/project/chat/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/tony/project/chat/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/tony/project/chat/build/src/server",
+  "command": "/usr/bin/g++    -I/home/tony/project/chat/include -I/home/tony/project/chat/include/server -I/home/tony/project/chat/include/server/db -I/home/tony/project/chat/include/server/model -I/home/tony/project/chat/include/server/redis -I/home/tony/project/chat/thirdparty  -g -g   -std=c++11 -o CMakeFiles/server.dir/model/usermodel.cpp.o -c /home/tony/project/chat/src/server/model/usermodel.cpp",
+  "file": "/home/tony/project/chat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/tony/project/chat/build/src/server",
+  "command": "/usr/bin/g++    -I/home/tony/project/chat/include -I/home/tony/project/chat/include/server -I/home/tony/project/chat/include/server/db -I/home/tony/project/chat/include/server/model -I/home/tony/project/chat/include/server/redis -I/home/tony/project/chat/thirdparty  -g -g   -std=c++11 -o CMakeFiles/server.dir/redis/redis.cpp.o -c /home/tony/project/chat/src/server/redis/redis.cpp",
+  "file": "/home/tony/project/chat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/tony/project/chat/build/src/client",
+  "command": "/usr/bin/g++    -I/home/tony/project/chat/include -I/home/tony/project/chat/include/server -I/home/tony/project/chat/include/server/db -I/home/tony/project/chat/include/server/model -I/home/tony/project/chat/include/server/redis -I/home/tony/project/chat/thirdparty  -g -g   -std=c++11 -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/tony/project/chat/src/client/main.cpp",
+  "file": "/home/tony/project/chat/src/client/main.cpp"
+}
+]
